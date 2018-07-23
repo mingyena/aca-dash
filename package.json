@@ -1,0 +1,19 @@
+{
+  "name": "rui-hw-02-aca-dash",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mingyena/aca-dash.git"
+  },
+  "author": "Rui Liu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mingyena/aca-dash/issues"
+  },
+  "homepage": "https://github.com/mingyena/aca-dash#readme"
+}
