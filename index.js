@@ -126,13 +126,11 @@ function sort(theArray){
 
 var array=[1,2,3,4,5];
 var sortArray=[3,5,2,1,4];
-
-exports.map = map(array,x=>{return x*2});
-exports.filter = filter(array,ele=>(ele>3));
-exports.find = find(array,ele=>(ele>3));
-exports.head = head(array);
-exports.reverse = reverse(array);
-exports.tail = tail(array);
-exports.sort = sort(sortArray);
-exports.findLast = findLast(array);
-console.log(exports);
+exports.map = map;
+exports.filter = filter;
+exports.find = find;
+exports.head = head;
+exports.reverse = reverse;
+exports.tail = tail;
+exports.sort = sort;
+exports.findLast = findLast;
